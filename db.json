@@ -1,0 +1,51 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "iphone X",
+            "price": 4000000,
+            "brand": " ",
+            "thumbanail": "http://mco-s2-p.mlstatic.com/680694-MCO31615008367_072019-I.jpg",
+            "category": {
+                "category-id": 1,
+                "category-name": "Celular"
+            },
+            "rating": 0,
+            "seller": {
+                "seller_id": 1,
+                "seller_name": "exito"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Computador MSI",
+            "price": 4600000,
+            "brand": " ",
+            "thumbanail": "http://mco-s1-p.mlstatic.com/687261-MCO31561382888_072019-I.jpg",
+            "category": {
+                "category-id": 2,
+                "category-name": "Portatil"
+            },
+            "rating": 0,
+            "seller": {
+                "seller_id": 1,
+                "seller_name": "Gamers Colombia"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Mouse Redragon",
+            "price": 79000,
+            "brand": " ",
+            "thumbanail": "http://mco-s1-p.mlstatic.com/715815-MCO31180711064_062019-I.jpg",
+            "category": {
+                "category-id": 3,
+                "category-name": "Mouse"
+            },
+            "rating": 0,
+            "seller": {
+                "seller_id": 3,
+                "seller_name": "Falabella"
+            }
+        }
+    ]
+}
