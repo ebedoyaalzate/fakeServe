@@ -4,7 +4,7 @@
             "name": "iphone X",
             "price": 4000000,
             "brand": " ",
-            "thumbanail": "http://mco-s2-p.mlstatic.com/680694-MCO31615008367_072019-I.jpg",
+            "thumbnail": "http://mco-s2-p.mlstatic.com/680694-MCO31615008367_072019-I.jpg",
             "category": {
                 "category-id": 1,
                 "category-name": "Celular"
@@ -20,7 +20,7 @@
             "name": "Computador MSI",
             "price": 4600000,
             "brand": " ",
-            "thumbanail": "http://mco-s1-p.mlstatic.com/687261-MCO31561382888_072019-I.jpg",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/687261-MCO31561382888_072019-I.jpg",
             "category": {
                 "category-id": 2,
                 "category-name": "Portatil"
@@ -36,7 +36,7 @@
             "name": "Mouse Redragon",
             "price": 79000,
             "brand": " ",
-            "thumbanail": "http://mco-s1-p.mlstatic.com/715815-MCO31180711064_062019-I.jpg",
+            "thumbnail": "http://mco-s1-p.mlstatic.com/715815-MCO31180711064_062019-I.jpg",
             "category": {
                 "category-id": 3,
                 "category-name": "Mouse"
