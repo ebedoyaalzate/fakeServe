@@ -6,8 +6,8 @@
             "brand": " ",
             "thumbnail": "http://mco-s2-p.mlstatic.com/680694-MCO31615008367_072019-I.jpg",
             "category": {
-                "category-id": 1,
-                "category-name": "Celular"
+                "category_id": 1,
+                "category_name": "Celular"
             },
             "rating": 0,
             "seller": {
